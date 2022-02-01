@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{DISRUPTIVE INNOVATION OF HEALTHCARE}
+\author{A054_shalai Amte}
+\date{February 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+The five most sited disruptive innovation in healthcare are mobile health applications, telemedicine, health informatics , omics technologies and retail clinics.
+‘innovation’ , a commonly used concept in economic and marketing circles, is becoming increasingly recognized s  a measurable phenomenon within healthcare . 
+The concept ‘disruptive innovation’ , which was originally found by clayton Christensen in 1995, has particularly premeated into academic and clinical healthcare dialect in recent years.
+Disruption describes the process whereby a smaller company with fewer resources is able to successfully challenge established incumbent business.
+
+Disruption is distinctly characterized by 
+1.	Market entrants targeting overlooked segments
+2.	Gaining traction within said low-end or new-market territories
+3.	There is often a slow response to this novel market threat by the incumbent market leaders, who are often focused on evolving their existing product for their established, mainstream customer base.
+4.	In time, the  entrants gain a foothold within the market as they serve a growing demand, often at a lower price.
+
+Pisano notes that disruption specifically occurs at the point at which mainstream customers adopt the market entrant’s product in volume.
+
+\section{ SOME DISRUPTIVE HEALTHCARE TECHNOLOGIES}
+
+1.CONSUMER DEVICES, WEARABLE, AND APPS
+At first , a patient could only get biometric data about their pulse, heart rate, blood oxygen, and blood pressure , whereas now consumers can take charge of their own health journey, using data gathered from their fitbits, smartwatches, and mobile phone fitness apps. Physician can use the data gathered from these devices to make decision on treatment process.
+
+2. AI AND MACHINE LEARNING
+AI application is used to manage patient intake and scheduling as well as billing. with natural language capabilities, AI can collate and analyze survey responses. AI can be used to bring down the healthcare cost and let doctors focus on patient care.
+
+3. BLOCKCHAIN
+ Blockchain is database technology that uses encryption and other security measures to store data and link it in a way that enhances security and usability. This facility helps to maintain patients record, supply and distribution , and research.
+
+
+\section{SOME DISRUPTIVE TECHNOLOGIES AND THEIR DRAWBACKS}
+
+1.	TELEMEDICINE
+Telemedicine is effective , doctors will be reimbursed for a telehealth consultation . however, it is highly dependent on internet access which in some areas can be poor.
+
+2.	ELECTRONIC HEALTHRECORDS AND BIG DATA
+Electronic health records have been growing part of patients care since the adoption of affordable care act. The massive amount of EHR data goes far beyond healthcare, it can be used to do research, improve health and create new business opportunities hence the healthcare provider need to be aware and careful with the HER security
+
+\end{document}
