@@ -1,0 +1,60 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{EMERGING HEALTHCARE TECHNOLOGIES}
+\author{A054_shalai Amte}
+\date{February 2022}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+New technology in healthcare includes supportive , educational, information , organizational, rehabilitative, therapeutic, preventive, and diagnostic solution that improve patient access and healthcare provider capabilities.The healthcare sector of today benefits immensely from technological advancements. Emerging technologies are helping develop newer, better treatments while alleviating cost burdens. Some technologies are yet to be explored to their full potential, but have still brought about a massive shift in the sector. Innovations such as artificial intelligence and robotics are completely changing the landscape, ushering in a new future for healthcare.
+Healthcare technologies are diverse and encompass devices, medicines, vaccines, procedures, and systems to streamline operations, trim costs, and improve the quality of care delivered. Artificial intelligence (AI), blockchain, robotics, bio-printing, and nanotechnology are among the most promising technologies in the healthcare space.
+
+
+\section{SOME EMERGING TECHNOLOGIES }
+
+
+VIRTUAL CONCIERGE
+
+1.	A virtual concierge can perform many of the tasks in person, from answering emails and phone calls and scheduling appointments and events to responding to complaints and request and even handling payments.
+2.	Their flagship software is an AI care navigation assistant that helps patients find a clinic or physician, answer questions, schedule appointments, and even screens for virus symptoms.
+3.	Virtual concierge software allows healthcare facilities to upgrade their digital infrastructure and provide personalized solutions to patients.
+
+
+VOICE SEARCH
+
+1.	Voice search technology is becoming increasingly popular globally. Smart technology assistants are also changing the way patients search for care , including locating a hospital and asking about the illness symptoms. 
+2.	Reports reveal that 51.9 percent of consumers are prepared to use the voice search and around 7.5 have already done it . 
+3.	Participants mainly use voice assistants to enquire about symptoms(72.9), medical information (45.9), locate urgent care(37.7) and research treatment options(37.7)
+
+
+VIRTUAL REALITY
+
+1.	Virtual reality is an innovative tool with many applications, from teaching autistic children communication skill to engaging patients in activities and games for rehabilitation purposes.
+2.	VR solutions can manage hot flashes through cognitive behavioural therapy and relieve pain through meditation training. Some applications use augmented reality for clinical and medical documentation support, including reminder, order and referral assistance
+
+
+NANOTECHNOLOGY
+
+1.	Nanotechnology for healthcare space has been under development for a long time now. It studies molecular structure to develop precise devices and medicines.
+2.	The technologies are reshaping the healthcare sector and its future. The large scale connectivity gained due to the application of these technologies help in faster healthcare provision, while the studied data help in building the repositories of knowledge
+3.	The very objective of digitalization in this space is to improve the quality of healthcare provided while reducing stress on physicians. 
+
+
+3D BIOPRINTING
+
+1.	Another technological innovation for the healthcare space is 3D bioprinting. the global bioprinting market could have investments of almost 1.8 billion USD.
+2.	With the help of DNA analysis, bioprinting can regenerate and replace several body parts, bones, and tissue. 3d print prosthetics are also a boon for patients with missing limbs.
+
+
+ROBOTICS
+
+1. Robots were used medically for the first time in 1985. Since then, their role has expanded in this sector. The revenue generated in this segment is expected to reach USD 2.08 billion in 2021.
+2. Robots are mostly used in surgeries and to some extent in procedures such as laparoscopy, neurosurgery, orthopedic surgery, emergency response, and minimally invasive operations. The technology also has wearables such as robotic prostheses or exoskeletons that help with mobility issues in those suffering from missing or paralyzed limbs.
+3. Additionally, robotics are deployed for mundane tasks like restocking, disinfecting, cleaning, etc. Robots also gaining popularity as companions for the elderly or child patients
+
+\end{document}
